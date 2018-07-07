@@ -12,7 +12,7 @@ namespace NullObjectPattern
             while (input != "exit")
             {
                 Console.WriteLine("Enter your choice( Type 'a' for Bus, 'b' for Train.Type 'exit' to quit) ");
-            input = Console.ReadLine();
+                input = Console.ReadLine();
                 IVehicle vehicle = null;
                 switch (input)
                 {
