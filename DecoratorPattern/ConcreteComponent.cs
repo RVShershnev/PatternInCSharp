@@ -8,8 +8,7 @@ namespace DecoratorPattern
     {
         public override void MakeHouse()
         {
-            Console.WriteLine("Original House is complete. It is closed for
-            modification.");
+            Console.WriteLine("Original House is complete. It is closed for modification.");
         }
     }
 }

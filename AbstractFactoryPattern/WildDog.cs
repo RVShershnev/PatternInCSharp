@@ -12,8 +12,7 @@ namespace AbstractFactoryPattern
         }
         public void Action()
         {
-            Console.WriteLine("Wild Dogs prefer to roam freely in
-            jungles.\n");
+            Console.WriteLine("Wild Dogs prefer to roam freely in jungles.\n");
         }
     }
 }
